@@ -1,0 +1,38 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  cursor: default;
+  font-variant-ligatures: none;
+  background-color: #1b1b1b;
+  background-image: url('https://www.privacy.com.sg/wp-content/uploads/2021/01/amex_background.jpg');
+  background-attachment: fixed;
+  background-position: top center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+p, ul, ol {
+  color: #6c757d;
+}
+
+.subhead {
+  font-size: 1.25rem;
+}
+
+.col {
+  margin-bottom: 1%;
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.disclamer {
+  font-size: 11px;
+  max-width: 500px;
+  margin-top: 20px;
+}
